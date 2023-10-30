@@ -1,1 +1,0 @@
-# CT_bag_detection
